@@ -1,0 +1,44 @@
+.signupcontainer{
+    background-color: #ffd301;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    font-size:large;
+    flex-direction: column;
+    padding: 20px 60px 60px;
+    
+  }
+
+.formContainer{
+background-color: white;
+padding: 20px;
+
+
+}
+
+.inputContainer{
+  padding: 5px;
+}
+.input{
+  margin-left: 20px;
+  width: 200px;
+  border-radius: 5px;
+  padding: 5px;
+}
+.buttonContainer{
+  margin-top: 35px;
+  display: flex;
+  justify-content: center;
+  
+}
+.btnContainer{
+  width:90px;
+  background-color: #ffd301;
+  font-weight: bold;
+  border-radius: 5px;
+}
+.LoginPart{
+ display: flex;
+ justify-content: center;
+}

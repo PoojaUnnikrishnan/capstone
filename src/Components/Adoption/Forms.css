@@ -1,0 +1,80 @@
+
+.form-container {
+  display: flex;
+  min-height: 50vh;
+  justify-content: center;
+  align-items: center;
+  /* width: 70px; */
+  /* background-color: white; */
+   margin: auto; 
+   margin-top:20px;
+  /* box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(152, 129, 129, 0.24); */
+  /* padding: 10px; */
+  margin-bottom: 100px;
+}
+
+.register-form {
+  background: #FFD301; 
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+
+.success-message {
+  font-family: "Roboto", sans-serif;
+  background-color: #3f89f8;
+  padding: 15px;
+  color: white;
+}
+
+.form-field {
+  /* margin: 10px 0 10px 0; */
+  /* background-color: #FFD301; */
+  outline: 2px solid black;
+  border-radius: 5px;
+  /* color: ;  */
+  cursor: pointer;
+   margin:4px;
+  padding: 15px;
+  font-size: 16px;
+  border: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+#first-name-error{
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  color: red;
+  margin-bottom: 2px;
+}
+
+input {
+  background: #f2f2f2;
+}
+
+.error {
+  border-style: solid;
+  border: 1px solid #ffa4a4;
+}
+
+/* button {
+  background-color: #FFD301;
+  color: white;
+  cursor: pointer;
+} */
+
+button:disabled {
+  cursor: default;
+}
+
+.adopt-btn{
+  border:none;
+  /* color:blue; */
+  background-color: #4b70e2;
+  width:100px;
+  margin:20px auto;
+  border-radius: 5px;
+  padding:10px; 
+}
+
