@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/capstone/static/css/main.fb9329c3.css",
+    "main.js": "/capstone/static/js/main.3224fbbf.js",
+    "static/js/787.3ecd7fac.chunk.js": "/capstone/static/js/787.3ecd7fac.chunk.js",
+    "static/media/ambulance1.png": "/capstone/static/media/ambulance1.1195bb4ea9d615a270de.png",
+    "static/media/consultation.png": "/capstone/static/media/consultation.9215614c0260e4dd1390.png",
+    "static/media/veterinary.jpg": "/capstone/static/media/veterinary.09246dd944360a9bbbb9.jpg",
+    "static/media/wellness3.png": "/capstone/static/media/wellness3.d38d5d3105009d6b32a3.png",
+    "static/media/dog-grooming2.png": "/capstone/static/media/dog-grooming2.c26ffe7ff4c5c5db99a1.png",
+    "static/media/logo.jpg": "/capstone/static/media/logo.9527251a133fd3b8fec9.jpg",
+    "static/media/dog-vaccination.jpg": "/capstone/static/media/dog-vaccination.f4a0f78eee0af7f19b8e.jpg",
+    "static/media/Navlogo.jpg": "/capstone/static/media/Navlogo.fe2571f0239df48a79df.jpg",
+    "static/media/drooling.jpg": "/capstone/static/media/drooling.add369c09109720a2e10.jpg",
+    "static/media/image.jpg": "/capstone/static/media/image.fa7c2aeb0910fe91944f.jpg",
+    "static/media/vet-clinic1.jpg": "/capstone/static/media/vet-clinic1.7b6de348a0a1febc2fde.jpg",
+    "static/media/dogBone.jpg": "/capstone/static/media/dogBone.11dd48a899ec30955fd8.jpg",
+    "static/media/WellnessAndPreventivecare1.jpg": "/capstone/static/media/WellnessAndPreventivecare1.8d4b45114872b16d89e6.jpg",
+    "static/media/redEye.jpg": "/capstone/static/media/redEye.a8a68455ddd01bb24c7c.jpg",
+    "static/media/dental5.jpg": "/capstone/static/media/dental5.f424c2b8efb84fe20368.jpg",
+    "static/media/dog-training2.jpg": "/capstone/static/media/dog-training2.52f2dce0d88000098fda.jpg",
+    "static/media/dog_vaccination1.jpg": "/capstone/static/media/dog_vaccination1.1d4b70750be12a2c5414.jpg",
+    "static/media/complete-small.jpg": "/capstone/static/media/complete-small.920737a314dc0b6383ea.jpg",
+    "static/media/dog-training.jpg": "/capstone/static/media/dog-training.495445485d5b2568b120.jpg",
+    "static/media/Emergency-ambulance.jpg": "/capstone/static/media/Emergency-ambulance.96f67dac06ebfec452e6.jpg",
+    "index.html": "/capstone/index.html",
+    "main.fb9329c3.css.map": "/capstone/static/css/main.fb9329c3.css.map",
+    "main.3224fbbf.js.map": "/capstone/static/js/main.3224fbbf.js.map",
+    "787.3ecd7fac.chunk.js.map": "/capstone/static/js/787.3ecd7fac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb9329c3.css",
+    "static/js/main.3224fbbf.js"
+  ]
+}
